@@ -1,0 +1,15 @@
+ Find string 7
+
+ grep ^echo teknoscript.txt
+
+ Find string 8
+
+ grep -v ^# teknoscript.txt
+
+ Grep Command - 1
+
+ grep ';' employee.txt
+
+  Grep Command - 2
+
+  grep -v ';' employee.txt

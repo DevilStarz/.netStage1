@@ -1,0 +1,23 @@
+Copy File 5
+
+cp livingthings/birds/flyingbirds/eider livingthings/animals/mammals
+
+Copy File - 6
+
+cp livingthings/birds/flyingbirds/eagle livingthings/birds/nonflyingbirds 
+
+Copy Directory
+
+cp -rf livingthings/birds livingthings/plants
+
+Copy Complete Directory
+
+cp -ir mydir/colors/basic mydir/colors/blended mydir/shape
+
+Move File 1
+
+mv mydir/animals/mammals/dog mydir/shape
+
+Move File 2
+
+mv mydir/animals/reptiles/snakes mydir/shape
